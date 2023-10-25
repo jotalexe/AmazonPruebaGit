@@ -11,7 +11,7 @@ public class BD {
     }
 
     public void setInfo(){
-        
+
     }
 
 }
